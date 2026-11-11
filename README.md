@@ -1,5 +1,12 @@
 # LaunchPin VR
 
+# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/latest)
+
+**That link always gets you the latest version** — one file,
+`LaunchPin VR Setup`. Run it and you're installing. (Windows will
+stop it once because it isn't code-signed: **More info → Run
+anyway**.)
+
 A VR front end for Visual Pinball X. Put the headset on and your whole
 VPX library stands on a wall in front of you — pick a table, play it,
 and come back to the room when you're done, without ever taking the
@@ -32,15 +39,9 @@ LaunchPin VR doesn't replace Visual Pinball — it drives it.
 
 ## Download
 
-Grab **LaunchPin VR Setup** from the
-[Releases page](https://github.com/SibioJak/launchpin-vr/releases)
-and run it. It installs per-user — no admin prompt — and the first
-run walks you through setup one step at a time.
-
-The installer isn't code-signed, so Windows SmartScreen will stop
-it once: **More info → Run anyway**.
-
-The full manual is installed with the app (Start menu →
+The big link at the top of this page. It installs per-user — no
+admin prompt — and the first run walks you through setup one step
+at a time. The full manual is installed with the app (Start menu →
 **LaunchPin VR Manual**) and is attached to every release.
 
 ## Notes
