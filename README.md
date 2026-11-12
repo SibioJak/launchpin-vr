@@ -1,6 +1,6 @@
 # LaunchPin VR
 
-# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/latest)
+# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/download/v1.1.2/LaunchPin_VR_Setup_1.1.2.exe)
 
 **That link always gets you the latest version** — one file,
 `LaunchPin VR Setup`. Run it and you're installing. (Windows will
@@ -42,7 +42,7 @@ LaunchPin VR doesn't replace Visual Pinball — it drives it.
 The big link at the top of this page. It installs per-user — no
 admin prompt — and the first run walks you through setup one step
 at a time. The full manual is installed with the app (Start menu →
-**LaunchPin VR Manual**) and is attached to every release.
+**LaunchPin VR Manual**).
 
 ## Notes
 
