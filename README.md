@@ -44,6 +44,14 @@ admin prompt — and the first run walks you through setup one step
 at a time. The full manual is installed with the app (Start menu →
 **LaunchPin VR Manual**).
 
+## Bugs and feedback
+
+Found something broken, or something that confused you? Open an
+issue here: https://github.com/SibioJak/launchpin-vr/issues —
+that's the fastest way to reach the developer, and it keeps every
+report in one place. A screenshot and a sentence about what you
+were doing when it happened help more than anything.
+
 ## Notes
 
 LaunchPin VR is a one-person project, free. The source code lives
