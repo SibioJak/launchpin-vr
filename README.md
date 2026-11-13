@@ -1,6 +1,6 @@
 # LaunchPin VR
 
-# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/download/v1.1.5/LaunchPin_VR_Setup_1.1.5.exe)
+# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/download/1.1.6/LaunchPin_VR_Setup_1.1.6.exe)
 
 **That link always gets you the latest version** — one file,
 `LaunchPin VR Setup`. Run it and you're installing. (Windows will
@@ -51,6 +51,10 @@ issue here: https://github.com/SibioJak/launchpin-vr/issues —
 that's the fastest way to reach the developer, and it keeps every
 report in one place. A screenshot and a sentence about what you
 were doing when it happened help more than anything.
+
+Some problems live in a table rather than in LaunchPin — the
+[known table issues](KNOWN_TABLE_ISSUES.md) page lists the ones
+confirmed so far, and what to do about them.
 
 ## Notes
 
