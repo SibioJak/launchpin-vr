@@ -1,6 +1,6 @@
 # LaunchPin VR
 
-# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/download/v1.1.13/LaunchPin_VR_Setup_1.1.13.exe)
+# ⬇️ [DOWNLOAD LAUNCHPIN VR](https://github.com/SibioJak/launchpin-vr/releases/download/v1.1.14/LaunchPin_VR_Setup_1.1.14.exe)
 
 **That link always gets you the latest version** — one file,
 `LaunchPin VR Setup`. Run it and you're installing. (Windows will
